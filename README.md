@@ -1,2 +1,3 @@
 # gas-prices
-USA and world gas prices
+
+USA and worldwide gas prices!
